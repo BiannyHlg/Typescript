@@ -25,7 +25,7 @@
 ##### - Erased Types:
 *Sirve para mejorar el rendimiento y interoperabilidad en ciertos de lenguajes de programacion o sistemas de tipos, eliminando la informacion de tipos durante la compilacion para optimizar el codigo generado.*
 
-#####- Downleveling
+##### - Downleveling
 *Es el proceso importate en el desarrollo de Typescript y otros lenguajes que compilan Jv ya que permite que el codigo generado sea compatible con versiones mas antiguas de ECMAScript, lo que garantiza una mayor compatibilidad con siversos entornos de ejecusion.*
 
 ##### - Strictness
