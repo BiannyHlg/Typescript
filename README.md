@@ -1,7 +1,7 @@
 
 
 # Caracteristicas de Typescript:
-![](https://www.google.com/search?sca_esv=21d8767eaab99d7a&sxsrf=ACQVn09AUIkVe8Yi9ioqSV-wCY4A41RUyQ:1708273671921&q=typescript&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjkipOrp7WEAxWQ_8kDHXE7AcgQ0pQJegQIFRAB&biw=1536&bih=703&dpr=1.25#imgrc=Q9FkC31RHk1FxM)
+
 #####  - Static type-checking: 
 *Este  se refiere al proceso de la verificacion estatica de tipos que se realiza durante la compilacion del codigo TypeScript .*
 
